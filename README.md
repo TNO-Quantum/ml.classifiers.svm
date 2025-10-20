@@ -20,8 +20,7 @@ that comply with international export control laws.*
 
 ## Documentation
 
-Documentation of the `tno.quantum.ml.classifiers.svm` package can be found [here](https://tno-    
-quantum.github.io/documentation/).
+Documentation of the `tno.quantum.ml.classifiers.svm` package can be found [here](https://tno-quantum.github.io/documentation/).
 
 
 ## Install
