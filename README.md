@@ -35,6 +35,12 @@ $ python -m pip install tno.quantum.ml.classifiers.svm
 
 The Support Vector Machine can be used as shown in the following example.
 
+- Note: This example requires `tno.quantum.optimization.solvers[dwave]` and `tno.quantum.ml.datasets` which can be installed along the package using:
+
+  ```console
+  $ python -m pip install tno.quantum.ml.clustering.kmedoids[example]
+  ```
+
 ```python
 from tno.quantum.ml.classifiers.svm import SupportVectorMachine
 from tno.quantum.ml.datasets import get_iris_dataset
